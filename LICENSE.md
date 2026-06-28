@@ -1,4 +1,4 @@
-# 
+# 自定义 Aseprite 模板 Mac OS版 | 专业 Aseprite 模板 PC Windows版。集成 可变字体 和 渐变网格，跨平台性能最大化。
 
 
 
